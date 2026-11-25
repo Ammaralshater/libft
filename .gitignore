@@ -1,0 +1,15 @@
+# Compilation artifacts
+*.o
+*.a
+a.out
+
+# Debugging files
+*.dSYM/
+*.out
+
+# Editor settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
